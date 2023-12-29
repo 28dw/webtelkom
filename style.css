@@ -1,0 +1,154 @@
+.baris1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.merah {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 1440px;
+  height: 50px;
+  background-color: maroon;
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  height: 100px;
+  width: 250px;
+}
+
+.navbar ul {
+  display: flex;
+}
+
+.navbar ul a {
+  text-decoration: none;
+}
+
+.navbar ul a li {
+  list-style: none;
+  margin-right: 70px;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 15px;
+  margin-top: 180px;
+}
+
+.img {
+  width: 200px;
+  height: 50.5px;
+  margin-top: 180px;
+  margin-right: 650px;
+}
+
+.baris2 {
+  display: flex;
+  flex-direction: row;
+  text-align: justify;
+  justify-content: space-between;
+  align-items: center;
+  padding: 50px;
+}
+
+.kiri {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: justify;
+  color: black;
+  margin: 20px;
+  padding: 50px;
+  flex: 1;
+  height: 300px;
+  width: 300px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+h1 {
+  color: maroon;
+}
+
+.kanan {
+  margin-top: 200px;
+  margin-left: 150px;
+  margin-right: 100px;
+  width: 300px;
+  height: 300px;
+}
+
+.baris3 {
+  display: flex;
+  justify-content: center;
+  text-align: justify;
+  align-items: center;
+}
+
+.pembungkus {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  margin: 20px;
+}
+
+.text {
+  display: flex;
+}
+
+.kotak {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: 20px;
+  padding: 20px;
+}
+
+.baris4 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: left;
+  align-items: center;
+  background-color: maroon;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: white;
+}
+
+.atas {
+  height: 60px;
+  width: 100px;
+  margin-right: 1200px;
+}
+
+.bawah {
+  height: 100px;
+  width: 700px;
+  margin-right: 580px;
+}
+
+h3 {
+  margin-right: 1220px;
+}
+
+.baris5 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 1335px;
+  height: 50px;
+  background-color: black;
+}
+
+.copyright {
+  color: white;
+  margin-left: 40px;
+}
